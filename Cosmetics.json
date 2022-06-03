@@ -2,10 +2,10 @@
   "Items" : [
     {
       "itemtype" : "skin",
-      "name" : "hurensohn",
-      "icon" : "",
-      "swapicon" : "",
-      "pak" : "",
+      "name" : "Noskin To Wonder",
+      "icon" : "https://fortnite-api.com/images/cosmetics/br/cid_434_athena_commando_f_stealthhonor/smallicon.png",
+      "swapicon" : "https://fortnite-api.com/images/cosmetics/br/cid_226_athena_commando_f_octoberfest/smallicon.png",
+      "pak" : "sfsfsdfdsfdsdsfdsfdsfdfsfsddfsdsffds",
       "paknumber" : "492",
     }
   ]
