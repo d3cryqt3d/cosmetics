@@ -1,7 +1,7 @@
 {
     "Cosmetics" : [
-        "Skin|Noskin To Wonder|https://fortnite-api.com/images/cosmetics/br/cid_434_athena_commando_f_stealthhonor/smallicon.png",
-        "Skin|Wonder To Heidi|https://fortnite-api.com/images/cosmetics/br/cid_226_athena_commando_f_octoberfest/smallicon.png",
-        "Background|Carbon Kek|https://cdn.discordapp.com/attachments/979726381510426644/982354492689383535/unknown.png",
+        "Skin|Noskin To Wonder|https://fortnite-api.com/images/cosmetics/br/cid_434_athena_commando_f_stealthhonor/smallicon.png|https://fortnite-api.com/images/cosmetics/br/cid_226_athena_commando_f_octoberfest/smallicon.png",
+        "Skin|Wonder To Heidi|https://fortnite-api.com/images/cosmetics/br/cid_226_athena_commando_f_octoberfest/smallicon.png|https://cdn.discordapp.com/attachments/979726381510426644/982354492689383535/unknown.png",
+        "Background|Carbon Kek|https://cdn.discordapp.com/attachments/979726381510426644/982354492689383535/unknown.png|https://fortnite-api.com/images/cosmetics/br/cid_226_athena_commando_f_octoberfest/smallicon.png",
     ]
 }
